@@ -8,7 +8,7 @@ For my own projects, see [pervejhosen.com](https://pervejhosen.com).
 | Folder | What is in it |
 |---|---|
 | [python/learning-python-for-data-science](python/learning-python-for-data-science) | Course classes and practice: pandas, visualisation, A/B testing, regression, model selection, clustering, time series |
-| [python/python-for-da-ds-ml](python/python-for-da-ds-ml) | 23 weekly notebooks: data wrangling, EDA, regression, trees, KNN, SVM, clustering, recommenders |
+| [python/python-for-da-ds-ml](python/python-for-da-ds-ml) | 24 weekly notebooks: data wrangling, EDA, regression, trees, KNN, SVM, clustering, recommenders |
 | [python/eda-practice](python/eda-practice) | EDA and data cleaning practice on house prices, COVID tweets, FIFA and Superstore data |
 | [python/asds-technical-ai](python/asds-technical-ai) | Class notebooks and homework, NumPy and pandas |
 | [python/30-days-of-code](python/30-days-of-code) | First days of a Python challenge |
